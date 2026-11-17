@@ -1,4 +1,4 @@
-# Real-Time AI Industrial Safety & Worker Compliance System
+# AI-Powered Smart Industrial Safety and Monitoring System Using Computer Vision
 
 An edge AI computer vision and automated intervention system designed for industrial manufacturing and construction environments. The system performs real-time PPE compliance auditing, worker fall and unconsciousness detection, machine-worker proximity hazard monitoring, and virtual polygon geofencing with autonomous multi-tier escalation protocols.
 
