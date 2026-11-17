@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Temporary runtime frames & logs
+.detection_frame.jpg
+*.log
+.env
+
+# OS / Editor artifacts
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
